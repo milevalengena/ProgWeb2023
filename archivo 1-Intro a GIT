@@ -1,0 +1,4 @@
+git commit: añade  cambios al repositorios. Por un lado, git commit -m "mensaje" confirma todos los cambios de la zona de intercambio temporal añadiéndolos al repositorio y creando una nueva versión del proyecto. La referencia  "mensaje" es un breve mensaje que describe los cambios realizados y que se asociará a la nueva versión del proyecto. Por otro lado, git commit --amend -m "mensaje" cambia el mensaje del último commit por el nuevo mensaje (en referencia a "mensaje").
+git fetch: se encarga de descargar los cambios del repositorio remoto pero no los integra en la última versión del repositorio local.
+git pull: lo que hace es descargar los cambios de la rama del repositorio remoto e integrarlos en la última versión del repositorio local, es decir, en el HEAD.
+git push: sube al repositorio remoto los cambios de la rama en el repositorio local.
