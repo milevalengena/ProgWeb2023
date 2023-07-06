@@ -2,3 +2,4 @@ git commit: añade  cambios al repositorios. Por un lado, git commit -m "mensaje
 git fetch: se encarga de descargar los cambios del repositorio remoto pero no los integra en la última versión del repositorio local.
 git pull: lo que hace es descargar los cambios de la rama del repositorio remoto e integrarlos en la última versión del repositorio local, es decir, en el HEAD.
 git push: sube al repositorio remoto los cambios de la rama en el repositorio local.
+https://www.webolto.com/es/blog/12-ejemplos-paginas-web-sencillas/?authuser=0
